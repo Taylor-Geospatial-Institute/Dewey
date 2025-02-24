@@ -1,5 +1,6 @@
 # Dewey Data Resources
-
+| ![Dewey Logo](dewey.png) | ![SACER Logo](scaer.png) | ![TGI Logo](tgi.avif) |
+|:------------------------:|:------------------------:|:----------------------:|
 ## Overview
 This repository provides information about high-quality research data from world-class vendors available through Dewey for the Taylor Geospatial Institute in partnership with 
 Sinquefield Center for Applied Economic Research at SLU .
