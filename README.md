@@ -3,7 +3,7 @@
 |:------------------------:|:------------------------:|:----------------------:|
 ## Overview
 This repository provides information about high-quality research data from world-class vendors available through Dewey for the Taylor Geospatial Institute in partnership with 
-Sinquefield Center for Applied Economic Research at SLU .
+Sinquefield Center for Applied Economic Research at SLU.
 
 ## Available Data Categories by request.
 
