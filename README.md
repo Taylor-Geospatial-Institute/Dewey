@@ -46,7 +46,7 @@ Sinquefield Center for Applied Economic Research at SLU.
 - Labor market intelligence (WageScape)
 
 ## Getting Started
-Information about how to access and use these datasets will be added soon. For questions about data access, please contact aviskar.giri@taylorgeospatial.org or mark.krover@taylorgeospatial.org.
+Information about how to access and use these datasets will be added soon. For questions about data access, please contact aviskar.giri@taylorgeospatial.org or mark.korver@taylorgeospatial.org.
 
 ## Coming Soon
 - Dataset documentation
