@@ -364,7 +364,7 @@ To request access to Dewey data products:
 3. Specify the dataset(s) required for your research
 4. Receive access credentials after approval
 
-### Data Specialists
+### Data Support
 
 <table>
   <tr>
