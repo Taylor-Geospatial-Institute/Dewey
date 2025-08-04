@@ -373,13 +373,6 @@ To request access to Dewey data products:
       <b>Aviskar Giri</b><br>
       Geospatial Data Scientist<br>
       <a href="mailto:aviskar.giri@taylorgeospatial.org">aviskar.giri@taylorgeospatial.org</a>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/user-male-circle.png" width="50"/><br>
-      <b>Mark Korver</b><br>
-      Director, Data & Analytics<br>
-      <a href="mailto:mark.korver@taylorgeospatial.org">mark.korver@taylorgeospatial.org</a>
-    </td>
   </tr>
 </table>
 
