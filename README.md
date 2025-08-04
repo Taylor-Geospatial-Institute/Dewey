@@ -359,10 +359,22 @@ Researchers at TGI found that MLB games create distinct spatial clusters of econ
 
 ### Request Process
 To request access to Dewey data products:
-1. Complete the [data access request form](https://survey123.arcgis.com/share/9e0581234c3c44358debda4ce041f026)
-2. Prepare a brief description of your research objectives
-3. Specify the dataset(s) required for your research
-4. Receive access credentials after approval
+To begin the process, please send an email to Aviskar Giri, Geospatial Data Scientist, at aviskar.giri@taylorgeospatial.org.
+
+Your email should include:
+-Your Full Name and Affiliation
+-A brief but clear description of your research objectives.
+-The specific dataset(s) you are interested in.
+
+**Important Information Regarding Access**
+
+**Primary Access**: This data initiative operates under a "department license" with Dewey, intended for researchers affiliated with the Sinquefield Center for Applied Economic Research (SCAER).
+
+**TGI Member Access**: We can designate a limited number of TGI faculty from member institutions as SCAER-affiliated researchers to grant them access. Please note that access is not automatic and needs to be negotiated. We are actively exploring the demand within the TGI consortium to potentially expand our licensing agreement in the future.
+
+**Approval Process**: Each request will be reviewed to ensure alignment with our agreement with Dewey. Due to licensing constraints, users with a xxx.slu.edu email address may experience a more streamlined approval process. All other requests will be handled on a case-by-case basis through negotiation.
+
+**Alternative Access**: Any TGI member school, department, or individual faculty member also has the option to purchase their own license directly from Dewey.
 
 ### Data Support
 
