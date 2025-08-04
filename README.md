@@ -359,7 +359,7 @@ Researchers at TGI found that MLB games create distinct spatial clusters of econ
 
 ### Request Process
 To request access to Dewey data products:
-To begin the process, please send an email to Aviskar Giri, Geospatial Data Scientist, at aviskar.giri@taylorgeospatial.org.
+To begin the process, please send an email to Aviskar Giri, at aviskar.giri@taylorgeospatial.org.
 
 Your email should include:
 -Your Full Name and Affiliation
